@@ -1,3 +1,4 @@
 # OGGM-Columbia-Project
 
 <img src="images/conrad_all_14f_18s_vel_less_5m_spm2.png" width="400">
+Ice velocity map for Conrad Glacier using Lidar DEMs from 2014 to 2018 
