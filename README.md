@@ -1,7 +1,7 @@
 # OGGM-Columbia-Project
 Investigating ice thickness for six glaciers in the Columbia Basin relative to surface inversion model output
 
-<img src="images/CBT_SB_new_final.png" width="400">
+<img src="images/CBT_ice_thick_cc.png" width="400">
 
 Columbia River basin map with study glaciers
 
