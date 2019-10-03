@@ -9,7 +9,7 @@ Columbia River basin map with study glaciers
 
 Ice velocity map for Conrad Glacier using Lidar DEMs from 2014 to 2018 
 
-Files list:
+## Notebooks
 
 - MB_gradient_comp_1glacier_gpr: compares ice thickness a glacier between OGGM linear gradient and a user defined mass balance gradient
 - MB_gradient_comp_7panel: plots the OGGM default SMB gradients and in situ SMB gradients
