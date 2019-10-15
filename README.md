@@ -16,5 +16,5 @@ Ice velocity map for Conrad Glacier using Lidar DEMs from 2014 to 2018
 - SMB_gradients_from_point_obs: Calculates and plots SMB gradients for all study glaciers from point observations
 - ice_thickness_plot: plots observed ice thickness for all study glaciers
 - alt_dem_anysite_GPR: compares inversion thickness between SRTM and LiDAR DEM, and then compares to GPR obs. of ice thickness
-- use_your_own_inventory...: both files utilize corrected outlines for Nordic and Illecillewaet glaciers to conduct inversion analyses
+- own_inventory...: both files utilize corrected outlines for Nordic and Illecillewaet glaciers to conduct inversion analyses
 - srtm_lidar: outdated plot of SRTM versus LiDAR inversion thickness
