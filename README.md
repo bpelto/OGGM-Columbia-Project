@@ -7,7 +7,8 @@ Columbia River basin map with study glaciers
 
 ## Notebooks
 
-- Basin inversion: model ice thickness for the entire Columbia Basin using optimized Glen's A and SMB gradient
+- Basin_inversion: model ice thickness for the entire Columbia Basin using optimized Glen's A and SMB gradient
+- Optimized_run: OGGM run for an individual glacier with optimized A and MB gradient
 - MB_gradient_comp_1glacier_gpr: compares ice thickness a glacier between OGGM linear gradient and a user defined mass balance gradient
 - alt_dem_anysite_GPR: compares inversion thickness between SRTM and LiDAR DEM, and then compares to GPR obs. of ice thickness
 - model_sketch: some documentation of OGGM steps
