@@ -30,9 +30,7 @@ Plotting:
 Extra:
 - Farinotti_2019_volume: calculate ice volume Farinotti et al. 2019 for Columbia Basin
 - Resolution: small version of the resolution testing notebook with example given, tests impact of resolution on output on single run
-- optimized_thickness-exports: optimized thickness script with further output options
-- optimized_thickness-smoothing-DFB-combi-SRadius: optimized thickness script with smoothing radius iteration 
-- optimized_thickness-smoothing-DFB-combi: optimized thickness script with distance from border exponent or smoothing window iteration, can also iterate over resolution.
+- optimized_thickness-smoothing-DFB-combi-SRadius: optimized thickness script with distance from border exponent or smoothing window iteration, can also iterate over resolution and smoothing radius 
 
 <img src="images/conrad_all_14f_18s_vel_less_5m_spm2.png" width="400">
 
