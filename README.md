@@ -12,7 +12,8 @@ Columbia River basin map with study glaciers
 - MB_gradient_comp_1glacier_gpr: compares ice thickness a glacier between OGGM linear gradient and a user defined mass balance gradient
 - alt_dem_anysite_GPR: compares inversion thickness between SRTM and LiDAR DEM, and then compares to GPR obs. of ice thickness
 - model_sketch: some documentation of OGGM steps
-- optimized thickness: varies Glen's A to optimize modeled fit of observed ice thickness by minimizing the squared quadratic error  between observed and modeled ice thickness
+- optimized_thickness_kfold-conrad: optimized thickness modeling for Conrad Glacier, uses k-folding calibration validation data split
+- optimized thickness: (depreceated) varies Glen's A to optimize modeled fit of observed ice thickness by minimizing the squared quadratic error  between observed and modeled ice thickness
 - own_inventory...: both files utilize corrected outlines for Nordic and Illecillewaet glaciers to conduct inversion analyses
 
 Plotting:
