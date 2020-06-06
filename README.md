@@ -7,7 +7,8 @@ Columbia River basin map with study glaciers
 
 ## Notebooks
 
-- Basin inversion: model ice thickness for the entire Columbia Basin using optimized Glen's A and SMB gradient
+- Basin_inversion: model ice thickness for the entire Columbia Basin using optimized Glen's A and SMB gradient
+- Optimized_run: OGGM run for an individual glacier with optimized A and MB gradient
 - MB_gradient_comp_1glacier_gpr: compares ice thickness a glacier between OGGM linear gradient and a user defined mass balance gradient
 - alt_dem_anysite_GPR: compares inversion thickness between SRTM and LiDAR DEM, and then compares to GPR obs. of ice thickness
 - model_sketch: some documentation of OGGM steps
@@ -18,14 +19,16 @@ Plotting:
 - MB_gradient_comp_7panel: plots the OGGM default SMB gradients and in situ SMB gradients
 - SMB_gradients_from_point_obs: Calculates and plots linear SMB gradients from point observations of glaciological mass balance 
 - dfb_error_scatterplot: plots distance from border exponent against mean absolute error
+- distributed_thickness_plotting: optimized OGGM distributed thickness plots
 - ice_thick_box_seaborn: creates boxplot of ice thickness from published modeled, observed and OGGM modeled ice thickness
 - ice_thickness_plot: plots observed ice thickness for all study glaciers
-- mb_grads_thick_scatterplot: creates a 3-panel plot of modeled versus observed ice thickness using different SMB gradients
+- mb_grads_thick_scatterplot: creates a 2-panel plot of modeled versus observed ice thickness using different SMB gradients
 - oggm_gpr_comp_plot: plots differences in ice thickness between modeled and observed ice thickness 
 - smooth_radius_MEA_scatterplot: plot smoothing radius against mean absolute error 7-panel plot
 - smooth_window_thick_scatterplot: plot smoothing window against mean absolute error 7-panel plot
 
 Extra:
+- Farinotti_2019_volume: calculate ice volume Farinotti et al. 2019 for Columbia Basin
 - Resolution: small version of the resolution testing notebook with example given, tests impact of resolution on output on single run
 - optimized_thickness-exports: optimized thickness script with further output options
 - optimized_thickness-smoothing-DFB-combi-SRadius: optimized thickness script with smoothing radius iteration 
